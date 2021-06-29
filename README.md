@@ -13,4 +13,11 @@ Simply type in the name of the city in the search bar and click the blue icon an
 Coded by Cody Markham 2021
 
 
-https://codywmarkham.github.io/weather-board/
+https://codywmarkham.github.io/Weather-Board/
+
+
+
+
+
+
+![Explantion Image](https://github.com/codywmarkham/Weather-Board/blob/main/images/page.PNG)
