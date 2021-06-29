@@ -1,4 +1,7 @@
 // https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
+// http://osp123.github.io/tutorials/html/weatherAPI.html
+// https://api.jquery.com/
+// https://momentjs.com/
 
 function createCityList(citySearchList) {
     $("#city-list").empty(); 
@@ -136,7 +139,7 @@ function createCityList(citySearchList) {
               $("#forecast-wind" + forecastPosition).text(
                 "Wind Speed: " + forecast.list[i].wind.speed + " MPH"
               );
-  
+                  // forecast cards CSS
               $(".forecast").attr(
                 "style", 
                 "background-color:dodgerblue; color:white"
